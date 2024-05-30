@@ -22,3 +22,10 @@ Launch the Game: Run the application to open the game window.
 Select Game Mode: Choose between Easy, Multiplayer, and Advanced modes.
 Make Your Moves: Click on the grid to place your mark (X or O). The objective is to get three of your marks in a row, column, or diagonal.
 Enjoy: Experience different levels of difficulty and challenge your friends or the unbeatable AI.
+
+#### You can see the attached videos: 
+https://github.com/Mohammad-Zaben/Tic-Tac-Toe/assets/141401082/76d7d253-4a97-4cd5-8cb3-523d756c97f7
+https://github.com/Mohammad-Zaben/Tic-Tac-Toe/assets/141401082/629e4a5f-dc64-41e8-b05d-09683c2be407
+
+
+
